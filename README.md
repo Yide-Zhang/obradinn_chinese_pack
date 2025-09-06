@@ -6,9 +6,9 @@ This is a player made chinese patch for Return of the Obra Dinn. It alters some 
 
 ## 如何使用 (How to use)
 
-对于 Windows 系统，请将此文件覆盖到 Steam 游戏目录 (通常是 `./steamapps`) 下的 `/Common/ObraDinn/ObraDinn_Data/StreamingAssets/lang-zh-s`；对于 MacOS 系统，请将此文件覆盖到 Steam 游戏目录（通常是 `./SteamLibrary/steamapps`）下的同上子目录中。建议您保存原文件的备份，以防止此补丁有尚未明知的错误。
+对于 Windows 系统，请将此文件覆盖到 Steam 游戏目录 (通常是 `./steamapps`) 下的 `/Common/ObraDinn/ObraDinn_Data/StreamingAssets/lang-zh-s`；对于 MacOS 系统，请将此文件覆盖到 Steam 游戏目录（通常是 `./SteamLibrary/steamapps`）下的 `/common/ObraDinn/ObraDinn.app/Contents/Resources/Data/StreamingAssets/lang-zh-s`。建议您保存原文件的备份，以防止此补丁有尚未明知的错误。
 
-Please overwrite `./steamapps/Common/ObraDinn/ObraDinn_Data/StreamingAssets/lang-zh-s` (for Windows) or `./SteamLibrary/steamapps/Common/ObraDinn/ObraDinn_Data/StreamingAssets/lang-zh-s` (for MacOS) with this file. You are suggested to back up the original file so to prevent any unknown errors.
+Please overwrite `./steamapps/Common/ObraDinn/ObraDinn_Data/StreamingAssets/lang-zh-s` (for Windows) or `./SteamLibrary/steamapps/common/ObraDinn/ObraDinn.app/Contents/Resources/Data/StreamingAssets/lang-zh-s` (for MacOS) with this file. You are suggested to back up the original file so to prevent any unknown errors.
 
 ## 已经知道的缺点 (Disadvantages of this pack already found)
 
