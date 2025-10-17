@@ -4,9 +4,15 @@
 
 This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch alters some of translations in the game (meanwhile, changing the textures correspondingly), fixes the shape of glyghs of fonts used in the game, and makes the dialogues bilingual.
 
+## 说明 (Notes)
+
+MacOS 系统的 v 0.2.1 补丁仍在制作. 请先使用 v 0.2.0 的版本. 
+
+The v 0.2.1 patch for MacOS is still under construction. Please use v 0.2.0 for now.
+
 ## 如何使用（How to use）
 
-请前往 release 界面下载相应系统的补丁 v 0.2.0 版本的可执行文件（包括 Windows 和 MacOS），双击运行程序（MacOS 版需要在 `设置-隐私与安全性` 中设置补丁文件的访问权限）并按照 GUI 界面操作。若出现访问权限问题，可能需要用户手动输入（或者粘贴）游戏路径。正确的路径形式如下：
+请前往 release 界面下载相应系统的补丁 v 0.2.1 版本的可执行文件（包括 Windows 和 MacOS），双击运行程序（MacOS 版需要在 `设置-隐私与安全性` 中设置补丁文件的访问权限）并按照 GUI 界面操作。若出现访问权限问题，可能需要用户手动输入（或者粘贴）游戏路径。正确的路径形式如下：
 
 - Windows: `./ObraDinn/ObraDinn_Data/`
 
@@ -30,7 +36,7 @@ This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch al
 
 **建议备份原文件，以防止补丁出错。**
 
-Please go to "Release" to download patch v 0.2.0 (executable file) for your operating system (Windows or MacOS). Double click the application (For MacOS, you need to set the accessibility authority of the patch in `Settings-Privacy&Security`) and operate as the GUI guides. You may have to type in (or paste) the path to the game files for lack of accessibility authority. A correct path should look like:
+Please go to "Release" to download patch v 0.2.1 (executable file) for your operating system (Windows or MacOS). Double click the application (For MacOS, you need to set the accessibility authority of the patch in `Settings-Privacy&Security`) and operate as the GUI guides. You may have to type in (or paste) the path to the game files for lack of accessibility authority. A correct path should look like:
 
 - Windows: `./ObraDinn/ObraDinn_Data/`
 
@@ -66,11 +72,15 @@ Temporarily not found. If you find a problem, please submit an issue.
 
 感谢 [@二元三次单项式](https://b23.tv/qHi5w0G) 的私信交流。
 
+感谢 [@Orion_stel](https://b23.tv/ZtRoBC5) 的建议和私信交流. 
+
 感谢 [@蹦跶不喜欢摄像头](https://b23.tv/AbwrGvh) 测试 MacOS 版本的补丁。
 
 Thanks to all audiences who corrects the translations and discusses with me in the comments of AD video for v 0.1.0 patch.
 
 Thanks to [@二元三次单项式](https://b23.tv/qHi5w0G) who messages me to discuss the details.
+
+Thanks to [@Orion_stel](https://b23.tv/ZtRoBC5) who gives suggestion and communicates with me to discuss the details.
 
 Thanks to [@蹦跶不喜欢摄像头](https://b23.tv/AbwrGvh) for testing MacOS patch.
 
