@@ -8,7 +8,7 @@ This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch al
 
 **2025 年圣诞节游戏打折时会发布 v0.2.2 版本。** 该版本将修改部分翻译，重新支持 Windows 和 MacOS，并将推出使实况视频更容易过审的主播模式。
 
-**Patch v0.2.2 will be release at Christmas 2025.** This upcoming version modifies some translations, supports both Windows and MacOS again and introduces a streamer mode that makes live video content easier to pass the review.
+**Patch v0.2.2 will be released at Christmas 2025 when the game is on sale.** This upcoming version modifies some translations, supports both Windows and MacOS again and introduces a streamer mode that makes live video content easier to pass the review.
 
 ## 如何使用（How to use）
 
