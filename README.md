@@ -6,9 +6,9 @@ This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch al
 
 ## 说明 (Notes)
 
-MacOS 系统的 v 0.2.1 补丁仍在制作. 请先使用 v 0.2.0 的版本. 
+**2025 年圣诞节游戏打折时会发布 v0.2.2 版本。**该版本将修改部分翻译，重新支持 Windows 和 MacOS，并将推出使实况视频更容易过审的主播模式。
 
-The v 0.2.1 patch for MacOS is still under construction. Please use v 0.2.0 for now.
+**Patch v0.2.2 will be release at Christmas 2025. **This upcoming version modifies some translations, supports both Windows and MacOS again and introduces a streamer mode that makes live video content easier to pass the review.
 
 ## 如何使用（How to use）
 
