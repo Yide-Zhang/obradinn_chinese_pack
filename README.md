@@ -6,19 +6,19 @@ This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch al
 
 ## 说明 (Notes)
 
-**2025 年圣诞节游戏打折时会发布 v0.2.2 版本。** 该版本将修改部分翻译，重新支持 Windows 和 MacOS，并将推出使实况视频更容易过审的主播模式。
+MacOS 版补丁将于 12 月 26 日发布。
 
-**Patch v0.2.2 will be released at Christmas 2025 when the game is on sale.** This upcoming version modifies some translations, supports both Windows and MacOS again and introduces a streamer mode that makes live video content easier to pass the review.
+MacOS patch will be released on 26th Dec.
 
 ## 如何使用（How to use）
 
-请前往 release 界面下载相应系统的补丁 v 0.2.1 版本的可执行文件（包括 Windows 和 MacOS），双击运行程序（MacOS 版需要在 `设置-隐私与安全性` 中设置补丁文件的访问权限）并按照 GUI 界面操作。若出现访问权限问题，可能需要用户手动输入（或者粘贴）游戏路径。正确的路径形式如下：
+请前往**右边侧栏**的 release 界面下载相应系统（包括 Windows 和 MacOS）和相应需求（**normal 是正常版，streaming 是适用于流媒体平台视频投稿过审的流媒体版**）的补丁 v 0.2.2 版本的可执行文件（文件名为 `your-OS-name_normal/streaming_patcher.zip`），双击运行程序（MacOS 版需要在 `设置-隐私与安全性` 中设置补丁文件的访问权限）并按照 GUI 界面操作。若出现访问权限问题，可能需要用户手动输入（或者粘贴）游戏路径。正确的路径形式如下：
 
 - Windows: `./ObraDinn/ObraDinn_Data/`
 
 - MacOS: `./ObraDinn/ObraDinn.app/Contents/Resources/Data/`
 
-如果以上方法安装失败，也可以使用如下的方法手动安装：下载**相应系统**的补丁文件包，解压缩后，
+如果以上方法安装失败，也可以使用如下的方法手动安装：下载**相应系统**的补丁文件包（文件名为 `your-OS-name_normal/streaming_sourcefiles.zip`），解压缩后，
 
 - 文本补丁：
 
@@ -36,13 +36,13 @@ This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch al
 
 **建议备份原文件，以防止补丁出错。**
 
-Please go to "Release" to download patch v 0.2.1 (executable file) for your operating system (Windows or MacOS). Double click the application (For MacOS, you need to set the accessibility authority of the patch in `Settings-Privacy&Security`) and operate as the GUI guides. You may have to type in (or paste) the path to the game files for lack of accessibility authority. A correct path should look like:
+Please go to "Release" on the right sidebar to download patch v 0.2.1 executable file (named `your-OS-name_normal/streaming_patcher.zip`) for your operating system (Windows or MacOS) and your requirements ("normal" is the standard version, "streaming" is a special version that makes video approval easier). Double click the application (For MacOS, you need to set the accessibility authority of the patch in `Settings-Privacy&Security`) and operate as the GUI guides. You may have to type in (or paste) the path to the game files for lack of accessibility authority. A correct path should look like:
 
 - Windows: `./ObraDinn/ObraDinn_Data/`
 
 - MacOS: `./ObraDinn/ObraDinn.app/Contents/Resources/Data/`
 
-If you cannot install patch as the method above, you can also manually install it by this method: Download the patch file pack **for your operating system**, decompress the zip, then
+If you cannot install patch as the method above, you can also manually install it by this method: Download the patch file pack **for your operating system** (named `your-OS-name_normal/streaming_sourcefiles.zip`), decompress the zip, then
 
 - Text:
 
@@ -74,7 +74,9 @@ Temporarily not found. If you find a problem, please submit an issue.
 
 感谢 [@Orion_stel](https://b23.tv/ZtRoBC5) 的建议和私信交流. 
 
-感谢 [@蹦跶不喜欢摄像头](https://b23.tv/AbwrGvh) 测试 MacOS 版本的补丁。
+感谢 [@蹦跶不喜欢摄像头](https://b23.tv/AbwrGvh) 测试 MacOS 版本的补丁技术栈。
+
+感谢 [@SaucyJack0813](https://b23.tv/XkUMYPr) 的私信交流。
 
 Thanks to all audiences who corrects the translations and discusses with me in the comments of AD video for v 0.1.0 patch.
 
@@ -82,10 +84,18 @@ Thanks to [@二元三次单项式](https://b23.tv/qHi5w0G) who messages me to di
 
 Thanks to [@Orion_stel](https://b23.tv/ZtRoBC5) who gives suggestion and communicates with me to discuss the details.
 
-Thanks to [@蹦跶不喜欢摄像头](https://b23.tv/AbwrGvh) for testing MacOS patch.
+Thanks to [@蹦跶不喜欢摄像头](https://b23.tv/AbwrGvh) for testing MacOS patch tech stack.
+
+Thanks to [@SaucyJack0813](https://b23.tv/XkUMYPr) who messages me to discuss the details.
 
 ## AI 生成内容（AI generated content）
 
 本补丁使用 AI 生成代码。
 
 This patch uses AI to generate codes.
+
+## 说明（Notes）
+
+若无特殊情况，v0.2.2 版将是补丁的最后一个正式版。
+
+If nothing is wrong, patch v0.2.2 will be the last release.
