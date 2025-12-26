@@ -4,12 +4,6 @@
 
 This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch alters some of translations in the game (meanwhile, changing the textures correspondingly), fixes the shape of glyghs of fonts used in the game, and makes the dialogues bilingual.
 
-## 说明 (Notes)
-
-MacOS 版补丁将于 12 月 26 日发布。
-
-MacOS patch will be released on 26th Dec.
-
 ## 如何使用（How to use）
 
 请前往**右边侧栏**的 release 界面下载相应系统（包括 Windows 和 MacOS）和相应需求（**normal 是正常版，streaming 是适用于流媒体平台视频投稿过审的流媒体版**）的补丁 v 0.2.2 版本的可执行文件（文件名为 `your-OS-name_normal/streaming_patcher.zip`），双击运行程序（MacOS 版需要在 `设置-隐私与安全性` 中设置补丁文件的访问权限）并按照 GUI 界面操作。若出现访问权限问题，可能需要用户手动输入（或者粘贴）游戏路径。正确的路径形式如下：
