@@ -62,7 +62,7 @@ Temporarily not found. If you find a problem, please submit an issue.
 
 ## 鸣谢（Acknowledgements）
 
-感谢在 v 0.1.0 补丁的宣传视频下悉心指正错误并和我讨论的所有观众。
+感谢在补丁宣传视频下悉心指正错误并和我讨论的所有观众。
 
 感谢 [@二元三次单项式](https://b23.tv/qHi5w0G) 的私信交流。
 
@@ -72,7 +72,7 @@ Temporarily not found. If you find a problem, please submit an issue.
 
 感谢 [@SaucyJack0813](https://b23.tv/XkUMYPr) 的私信交流。
 
-Thanks to all audiences who corrects the translations and discusses with me in the comments of AD video for v 0.1.0 patch.
+Thanks to all audiences who corrects the translations and discusses with me in the comments of AD video for the patch.
 
 Thanks to [@二元三次单项式](https://b23.tv/qHi5w0G) who messages me to discuss the details.
 
