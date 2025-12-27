@@ -30,7 +30,7 @@ This is a Chinese patch for *Return of the Obra Dinn* by a player. This patch al
 
 **建议备份原文件，以防止补丁出错。**
 
-Please go to "Release" on the right sidebar to download patch v 0.2.1 executable file (named `your-OS-name_normal/streaming_patcher.zip`) for your operating system (Windows or MacOS) and your requirements ("normal" is the standard version, "streaming" is a special version that makes video approval easier). Double click the application (For MacOS, you need to set the accessibility authority of the patch in `Settings-Privacy&Security`) and operate as the GUI guides. You may have to type in (or paste) the path to the game files for lack of accessibility authority. A correct path should look like:
+Please go to "Release" on the right sidebar to download patch v 0.2.2 executable file (named `your-OS-name_normal/streaming_patcher.zip`) for your operating system (Windows or MacOS) and your requirements ("normal" is the standard version, "streaming" is a special version that makes video approval easier). Double click the application (For MacOS, you need to set the accessibility authority of the patch in `Settings-Privacy&Security`) and operate as the GUI guides. You may have to type in (or paste) the path to the game files for lack of accessibility authority. A correct path should look like:
 
 - Windows: `./ObraDinn/ObraDinn_Data/`
 
